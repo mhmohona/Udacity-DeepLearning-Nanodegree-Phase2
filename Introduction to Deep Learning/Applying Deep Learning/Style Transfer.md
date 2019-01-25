@@ -14,6 +14,18 @@ Dependencies
 -
 TensorFlow, Python, Pillow, scipy, and numpy.
 
+After installing Miniconda, open your command prompt. In there, enter these commands line by line:
+
+conda create -n style-transfer python=3
+
+activate style-transfer
+
+conda install tensorflow scipy pillow
+
+pip install moviepy
+
+python -c "import imageio; imageio.plugins.ffmpeg.download()"
+
 Transferring styles
 -
 - Download the Zip archive from the [fast-style-transfer repository](https://github.com/lengstrom/fast-style-transfer) and extract it. You can download it by clicking on the bright green button on the right.
