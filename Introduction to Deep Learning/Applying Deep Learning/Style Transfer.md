@@ -12,7 +12,7 @@ and saved into [checkpoint files](https://drive.google.com/drive/folders/0B9jhaT
 
 Dependencies
 -
-TensorFlow, Python, Pillow, scipy, and numpy.
+For Windows, you'll need to install TensorFlow 0.12.1, Python 3.5, Pillow 3.4.2, scipy 0.18.1, and numpy 1.11.2
 
 After installing Miniconda, open your command prompt. In there, enter these commands line by line:
 
