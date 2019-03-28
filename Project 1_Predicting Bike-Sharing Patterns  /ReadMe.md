@@ -1,9 +1,6 @@
 # Predicting Bike-Sharing Data 
-
 ## Introduction
-I have learnt neural networks basics, and build `your first network` with Python and NumPy. I have defined and trained a multi-layer neural network, and used it to analyze real data. In this project, neural networks has been build and train from scratch to predict the number of bike-share users on a given day.
-
-
+I have learnt neural networks basics, and build `your first network` with Python and NumPy. I have defined and trained a multi-layer neural network, and used it to analyze real data. In this project, neural networks has been build and train from scratch to predict the number of bike-share users on a given day.
 ## Instructions
 1. Download the project materials from this GitHub repository. You can get download the repository with git clone.
 2. cd into the `p1 - Predicting Bike-Sharing Pattern` directory.
