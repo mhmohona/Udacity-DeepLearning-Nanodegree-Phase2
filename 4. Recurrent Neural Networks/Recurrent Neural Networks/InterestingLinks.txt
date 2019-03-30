@@ -1,0 +1,6 @@
+Are you into gaming and bots? Check out the DotA 2 bot by Open AI https://openai.com/blog/dota-2/
+How about automatically adding sounds to silent movies? https://youtu.be/0FW99AQmMc8
+Here is a cool tool for automatic handwriting generation http://www.cs.toronto.edu/~graves/handwriting.cgi?text=My+name+is+Luka&style=&bias=0.15&samples=3
+Amazon's voice to text using high quality speech recognition, Amazon Lex.
+Facebook uses RNN and LSTM technologies for building language models
+Netflix also uses RNN models - here is an interesting read
