@@ -13,14 +13,14 @@ There are also notebooks used as projects for the Nanodegree program. In the pro
 
 ## Projects
 
-Project 1 : [Predicting Bike-Sharing Patterns](https://github.com/mhmohona/DeepLearning-NanodegreeProgram-Phase-2/tree/master/Project%201_Predicting%20Bike-Sharing%20Patterns)
+Project 1 : [Predicting Bike-Sharing Patterns](https://github.com/mhmohona/DeepLearning-NanodegreeProgram-Phase-2/tree/master/Project%201_Predicting%20Bike-Sharing%20Patterns%C2%A0%C2%A0)
 -
 ![Project 1_Predicting Bike-Sharing Patterns](https://user-images.githubusercontent.com/14244685/55161620-2c301580-5190-11e9-8947-4535a4993201.PNG)
 
 In this project, I have built and traine Nural Network model from scratch to predicted the number of bikesharing users on a given day. 
 
 
-* [Dog Breed Classifier](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-dog-classification): Build a convolutional neural network with PyTorch to classify any image (even an image of a face) as a specific dog breed.
+* [Dog Breed Classifier](https://github.com/mhmohona/DeepLearning-NanodegreeProgram-Phase-2/tree/master/Project%202_Dog%20Breed%20Classifier): Build a convolutional neural network with PyTorch to classify any image (even an image of a face) as a specific dog breed.
 * [TV Script Generation](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-tv-script-generation): Train a recurrent neural network to generate scripts in the style of dialogue from Seinfeld.
 * [Face Generation](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-face-generation): Use a DCGAN on the CelebA dataset to generate images of new and realistic human faces.
 
