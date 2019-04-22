@@ -21,7 +21,12 @@ In this project, I have built and traine Nural Network model from scratch to pre
 
 
 * [Dog Breed Classifier](https://github.com/mhmohona/DeepLearning-NanodegreeProgram-Phase-2/tree/master/Project%202_Dog%20Breed%20Classifier): Build a convolutional neural network with PyTorch to classify any image (even an image of a face) as a specific dog breed.
-* [TV Script Generation](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-tv-script-generation): Train a recurrent neural network to generate scripts in the style of dialogue from Seinfeld.
+* [TV Script Generation](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-tv-script-generation): 
+
+![Generating TV script](https://user-images.githubusercontent.com/14244685/56514538-5b4f6200-6557-11e9-9235-084928059a5a.PNG)
+
+Train a recurrent neural network to generate scripts in the style of dialogue from Seinfeld.
+
 * [Face Generation](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-face-generation): Use a DCGAN on the CelebA dataset to generate images of new and realistic human faces.
 
 
