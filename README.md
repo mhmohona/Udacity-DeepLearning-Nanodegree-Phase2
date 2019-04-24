@@ -17,17 +17,26 @@ Project 1 : [Predicting Bike-Sharing Patterns](https://github.com/mhmohona/DeepL
 -
 ![Project 1_Predicting Bike-Sharing Patterns](https://user-images.githubusercontent.com/14244685/55161620-2c301580-5190-11e9-8947-4535a4993201.PNG)
 
-In this project, I have built and traine Nural Network model from scratch to predicted the number of bikesharing users on a given day. 
+In this project, I have implemented a neural network in Numpy to predict bike rentals.
+
+Project 2 :  [Dog Breed Classifier](https://github.com/mhmohona/DeepLearning-NanodegreeProgram-Phase-2/tree/master/Project%202_Dog%20Breed%20Classifier):
+-
+![dog breed](https://user-images.githubusercontent.com/14244685/56671322-40efc280-66d6-11e9-80b6-3a2fd9657d10.PNG)
+
+In this project, I have built a convolutional neural network with PyTorch to classify any image (even an image of a face) as a specific dog breed.
 
 
-* [Dog Breed Classifier](https://github.com/mhmohona/DeepLearning-NanodegreeProgram-Phase-2/tree/master/Project%202_Dog%20Breed%20Classifier): Build a convolutional neural network with PyTorch to classify any image (even an image of a face) as a specific dog breed.
-* [TV Script Generation](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-tv-script-generation): 
-
+Project 3 :  [TV Script Generation](https://github.com/mhmohona/Udacity-DeepLearning-NanodegreeProgram-Phase-2/tree/master/Project%203_Generate%20TV%20Scripts): 
+-
 ![Generating TV script](https://user-images.githubusercontent.com/14244685/56514538-5b4f6200-6557-11e9-9235-084928059a5a.PNG)
 
-Train a recurrent neural network to generate scripts in the style of dialogue from Seinfeld.
+In this project, I have trained a recurrent neural network to generate scripts in the style of dialogue from Seinfeld.
 
-* [Face Generation](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-face-generation): Use a DCGAN on the CelebA dataset to generate images of new and realistic human faces.
+Project 4 :  [Face Generation](https://github.com/mhmohona/Udacity-DeepLearning-NanodegreeProgram-Phase-2/tree/master/Project%204_Generate%20Faces): 
+-
+![Face Generation](https://user-images.githubusercontent.com/14244685/56671622-cbd0bd00-66d6-11e9-9a8d-d8b8725a054e.PNG)
+
+In this project, I have used a DCGAN on the CelebA dataset to generate images of new and realistic human faces.
 
 
 ## Table Of Contents
